@@ -1,6 +1,6 @@
 # Keycloak Docker setup with NGINX Proxy and Letsencrypt
 A simple Keycloak setup using NGINX Reverse Proxy and Letsencrypt.   
-It's useful for serve keycloak with SSL and default port 443.  
+It's useful to serve keycloak with SSL and default port 443.  
   
 # Reference  
 NGINX Proxy Docker image: https://github.com/jwilder/nginx-proxy  
