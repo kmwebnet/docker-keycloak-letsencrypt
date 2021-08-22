@@ -28,3 +28,10 @@ LETSENCRYPT_EMAIL=test@example.com
 
 After setup, you can access your URL with SSL.  
 You can use admin ID/Pass with KEYCLOAK_USER/KEYCLOAK_PASSWORD variables.   
+
+# Troubleshoot
+If you came across error:
+"User with username 'admin' already added to '/opt/jboss/keycloak/standalone/configuration/keycloak-add-user.json'"  
+
+You can refer the solution as follows:
+[Keycloak 8: User with username 'admin' already added](https://stackoverflow.com/questions/59599620/keycloak-8-user-with-username-admin-already-added)
